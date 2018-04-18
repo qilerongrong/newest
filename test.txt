@@ -1,3 +1,2 @@
 This is a test!XX
 master have changed this file!
-dev have changed this file!
