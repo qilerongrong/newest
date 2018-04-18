@@ -1,3 +1,6 @@
 This is a test!XX
 master have changed this file!
 dev2 changed this file!
+...........
+master do something,
+i will confict with dev2
