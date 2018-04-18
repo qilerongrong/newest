@@ -1,12 +1,16 @@
-<<<<<<< HEAD
+
 This is a test!XX
 master have changed this file!
 dev2 changed this file!
+
 dev2 do something。。。
-=======
 I have change the file on branch develop!
-do something....ß
->>>>>>> develop
+do something....
 ........................
 dev2 do something,
 i will confict with master.
+...........
+master do something,
+i will confict with dev2
+ok, merge dev2 with master. 
+....................
