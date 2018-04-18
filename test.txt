@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 This is a test!XX
 master have changed this file!
 dev2 changed this file!
 dev2 do something。。。
+=======
+I have change the file on branch develop!
+do something....ß
+>>>>>>> develop
